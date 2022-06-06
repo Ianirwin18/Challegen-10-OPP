@@ -15,7 +15,7 @@
 
 # Demo
 
-
+Link to Demo: https://github.com/Ianirwin18/Challegen-10-OPP
 
 ## Description
 Build a Node.js command-line application that takes in information about employees, then generates an HTML webpage that displays summaries for each employee.
@@ -42,7 +42,7 @@ Github Repository: https://github.com/Ianirwin18/Challegen-10-OPP
 
 ## Contribution
 
-* Myself and tutors
+* Myself, Brian, Allec, Tutors
 
 ## License
 
